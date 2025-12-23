@@ -1,4 +1,8 @@
-theme: minima
+# theme: minima
+emote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme  
 title: my github page
 author: ravencx1
 description: my first github page
+
